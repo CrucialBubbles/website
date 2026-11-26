@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(alvbnr.gif);
+	separator-image: url(alvrule.gif);
+	list-image-1: url(alvbull1.gif);
+	list-image-2: url(alvbull2.gif);
+	list-image-3: url(alvbull3.gif);
+
+
+	navbutton-horiz-normal: url(lvhbs.gif);
+	navbutton-horiz-hovered: url(lvhbh.gif);
+	navbutton-horiz-pushed: url(lvhbp.gif);
+
+	navbutton-vert-normal: url(lvvbs.gif);
+	navbutton-vert-pushed: url(lvvbp.gif);
+	navbutton-vert-hovered: url(lvvbh.gif);
+
+	navbutton-home-normal: url(lvhomes.gif);
+	navbutton-home-hovered: url(lvhomeh.gif);
+	navbutton-home-pushed: url(lvhomep.gif);
+
+	navbutton-next-normal: url(lvnexts.gif);
+	navbutton-next-hovered: url(lvnexth.gif);
+	navbutton-next-pushed: url(lvnextp.gif);
+
+	navbutton-prev-normal: url(lvprevs.gif);
+	navbutton-prev-hovered: url(lvprevh.gif);
+	navbutton-prev-pushed: url(lvprevp.gif);
+
+	navbutton-up-normal: url(lvups.gif);
+	navbutton-up-hovered: url(lvuph.gif);
+	navbutton-up-pushed: url(lvupp.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: brush script mt italic, arial, helvetica;
+	color: rgb(0,102,102);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	font-weight: bold;
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+
+	color: rgb(0,0,0);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.
